@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tax-calculator/static/css/main.a6f31b2f.css",
+    "main.js": "/tax-calculator/static/js/main.61d4ef57.js",
+    "index.html": "/tax-calculator/index.html",
+    "main.a6f31b2f.css.map": "/tax-calculator/static/css/main.a6f31b2f.css.map",
+    "main.61d4ef57.js.map": "/tax-calculator/static/js/main.61d4ef57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6f31b2f.css",
+    "static/js/main.61d4ef57.js"
+  ]
+}
