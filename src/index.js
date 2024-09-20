@@ -5,7 +5,7 @@ import './styles/index.css'; // General global styles if any
 
 import Header from './components/Header'; // Adjust path if necessary
 import HomePage from './pages/HomePage';
-import AboutPage from './pages/AboutPage';
+// import AboutPage from './pages/AboutPage';
 import UKTaxCalculator from './pages/UKTax';
 import ChinaTaxCalculator from './pages/ChinaTax';
 
