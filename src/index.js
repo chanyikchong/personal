@@ -14,7 +14,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
     <React.StrictMode>
-        <Router basename="/personal">
+        <Router basename="/tax-calculator">
             {/* Global Header */}
             <Header />
             {/* Define your routes */}
